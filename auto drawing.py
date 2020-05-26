@@ -198,37 +198,3 @@ pyautogui.dragRel(-25,0)
 pyautogui.dragRel(50,0)
 pyautogui.dragRel(-25,0)
 pyautogui.dragRel(0,30)
-
-
-
-
-
-
-
-
-
-
-
-
-
-# #nunu
-# pyautogui.moveTo(520,552)
-# pyautogui.dragRel(10,0)
-# pyautogui.dragRel(10,2)
-# pyautogui.dragRel(10,2)
-# pyautogui.dragRel(10,2)
-# pyautogui.dragRel(10,3.5)
-# pyautogui.dragRel(10,4)
-# pyautogui.dragRel(5,4.5)
-# pyautogui.dragRel(5,5)
-# pyautogui.dragRel(2,2)
-# pyautogui.dragRel(-5,0)
-# pyautogui.dragRel(-5,0.5)
-# pyautogui.dragRel(-5,1)
-# pyautogui.dragRel(-5,-1.5)
-# pyautogui.dragRel(-10,-2.5)
-# pyautogui.dragRel(-40,-4)
-
-
-
-#susu
