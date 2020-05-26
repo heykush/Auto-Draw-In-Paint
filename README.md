@@ -1,5 +1,5 @@
 # Auto-Draw-In-Paint
-This script can Draw Automatically a `robot picture` or You can say `Human Body` within in a sec.
+This Script can Draw Automatically a `Robot picture` or You can say `Human Body` within in a sec.
 
 
 ![Screenshot](https://github.com/heykush/Auto-Draw-In-Paint/blob/master/Editor.jpg?raw=true)
