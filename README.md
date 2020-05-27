@@ -5,7 +5,7 @@ This Script can Draw Automatically a `Robot picture` or You can say `Human Body`
 ![Screenshot](https://github.com/heykush/Auto-Draw-In-Paint/blob/master/Editor.jpg?raw=true)
 
 ## DEMO
-![DEMO](https://github.com/heykush/Auto-Draw-In-Paint/blob/master/ezgif.com-crop.gif?raw=true)
+![DEMO](https://github.com/heykush/Auto-Draw-In-Paint/blob/master/ezgif.com-video-to-gif%20(3).gif?raw=true)
 
 # Install Module
 - pip install `pyautogui`
